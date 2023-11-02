@@ -1,4 +1,5 @@
 # Sale-Performance-Dashboard(Excel)
+## Introduction
 * Embark on an exciting journey to build a dynamic Sales Performance Dashboard, featuring key metrics such as Profit, Profit %, and Number of Sales, among others.
 * Dive into my Sales Performance Dashboard repository, meticulously crafted while adhering to the expert guidance of Chandoo.
 * Uncover a treasure trove of project essentials and valuable resources on Chandoo's website, setting you on the path to dashboard mastery.
