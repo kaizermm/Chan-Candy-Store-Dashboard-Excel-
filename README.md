@@ -8,5 +8,8 @@
 * Implemented slicers to effortlessly filter and explore diverse categories and products.
 * Uncovered the top-selling champion: 99% Dark & Pure, driving profits skyward.
 * Noted the seasonal uptick in sales and profits during the festive months of November and December.
+## Preview
+Preview of Dashboard
+
   
 
