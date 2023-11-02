@@ -13,6 +13,6 @@ Preview of Dashboard
 ![Dashboard](https://github.com/kaizermm/Sale-Performance-Dashboard-Excel-/blob/main/Images/Dashboard.png?raw=true)
 
 Preview of Pivot table
-![Pivot_table1]()
+![Pivot_table1](https://github.com/kaizermm/Sale-Performance-Dashboard-Excel-/blob/main/Images/Pivot%20table%201.png?raw=true)
   
 
