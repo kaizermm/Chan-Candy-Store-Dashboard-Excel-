@@ -15,5 +15,9 @@ Preview of Dashboard
 Preview of Pivot table
 
 ![Pivot_table1](https://github.com/kaizermm/Sale-Performance-Dashboard-Excel-/blob/main/Images/Pivot%20table%201.png?raw=true)
+
+## Data
+All case study requirements and data are available on the [website](https://chandoo.org/wp/how-to-create-a-dynamic-excel-dashboard-in-5-steps/)
+Link to the [Dashboard](https://1drv.ms/x/c/fad3a4d369bf6a9b/EY9REYt6o51FpEUz8Pnj3eoB1eLvleacmJadz_yUPlsBAQ?e=TNeRwM)
   
 
