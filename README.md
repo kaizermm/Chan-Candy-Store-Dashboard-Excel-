@@ -18,6 +18,7 @@ Preview of Pivot table
 
 ## Data
 All case study requirements and data are available on the [website](https://chandoo.org/wp/how-to-create-a-dynamic-excel-dashboard-in-5-steps/)
+
 Link to the [Dashboard](https://1drv.ms/x/c/fad3a4d369bf6a9b/EY9REYt6o51FpEUz8Pnj3eoB1eLvleacmJadz_yUPlsBAQ?e=TNeRwM)
   
 
