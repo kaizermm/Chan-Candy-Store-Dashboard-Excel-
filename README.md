@@ -10,6 +10,6 @@
 * Noted the seasonal uptick in sales and profits during the festive months of November and December.
 ## Preview
 Preview of Dashboard
-![Dashboard]()
+![Dashboard](https://github.com/kaizermm/Sale-Performance-Dashboard-Excel-/blob/main/Images/Screenshot%202023-10-31%20235122.png?raw=true)
   
 
