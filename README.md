@@ -10,6 +10,6 @@
 * Noted the seasonal uptick in sales and profits during the festive months of November and December.
 ## Preview
 Preview of Dashboard
-
+![Dashboard]()
   
 
